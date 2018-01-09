@@ -72,7 +72,7 @@ foo() {
 
 
 ## Opening Issues
-If you encounter a bug with the Awesome Promise, we would like to hear about it. Search the [existing issues](https://github.com/prscX/awesome-promise/issues) and try to make sure your problem doesn’t already exist before opening a new issue.
+If you encounter a bug with the Simplified Promise, we would like to hear about it. Search the [existing issues](https://github.com/prscX/simplified-promise/issues) and try to make sure your problem doesn’t already exist before opening a new issue.
 
 ## Contributing
 Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
