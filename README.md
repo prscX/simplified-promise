@@ -4,8 +4,8 @@
 # Simplified Promise
 It enhances the simplicity of JavaScript Promise by adding below static API's to the out of box Promise:
 
-- Promise.Create(): Promise
-- Promise.All(): Promise
+- `Promise.Create(): Promise`
+- `Promise.All(): Promise`
 
 
 ## ES6 Promise Usage
