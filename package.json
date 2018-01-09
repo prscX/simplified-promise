@@ -1,0 +1,16 @@
+{
+    "name": "simplified-promise",
+    "version": "0.0.1",
+    "description": "Simplified Promise - Simplify the Promise usage",
+    "author": {
+        "name": "Pranav Raj Singh Chauhan",
+        "email": "pranavchauhan01@gmail.com"
+    },
+    "homepage": "https://github.com/prscX/simplified-promise",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/prscX/simplified-promise.git"
+    },
+    "contributors": [
+    ]
+}
