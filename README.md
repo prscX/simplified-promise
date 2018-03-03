@@ -1,5 +1,5 @@
 
-<center><img src="hero.png" width="300" height="300" /></center>
+<p align="center"><img src="hero.png" width="300" height="300" /></p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/simplified-promise"><img src="http://img.shields.io/npm/v/simplified-promise.svg?style=flat" /></a>
