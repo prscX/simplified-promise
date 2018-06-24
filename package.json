@@ -12,5 +12,6 @@
         "url": "https://github.com/prscX/simplified-promise.git"
     },
     "contributors": [
-    ]
+    ],
+    "license": "Apache License"
 }
